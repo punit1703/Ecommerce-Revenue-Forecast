@@ -35,3 +35,12 @@ This project aims to predict how much a customer is likely to spend yearly using
 - R² Score
 
 ## Folder Structure
+<!-- TREEVIEW START -->
+    ```bash
+    ├── example-directory/
+    │   ├── ecommerce_data.csv
+    │   ├── ecommerce_model.ipynb
+    │   ├── README.md
+    │   └── requirements.txt
+    ```
+<!-- TREEVIEW END -->
